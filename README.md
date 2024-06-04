@@ -1,4 +1,5 @@
-# Project: AC Milan Squad Enhancement Project | Strategic Investment in Goalkeeping Talent
+# AC Milan Squad Enhancement Project 
+## Strategic Investment in Goalkeeping Talent
 
 ## Objective
 
